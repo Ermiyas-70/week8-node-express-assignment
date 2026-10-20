@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "title": "JavaScript Guide",
+    "author": "Alice",
+    "genre": "Programming"
+  },
+  {
+    "id": 102,
+    "title": "Express Essentials",
+    "author": "Bob",
+    "genre": "Backend"
+  },
+  {
+    "id": 103,
+    "title": "Database Design",
+    "author": "Charlie",
+    "genre": "Database"
+  },
+  {
+    "id": 104,
+    "title": "Async JavaScript",
+    "author": "Diana",
+    "genre": "Programming"
+  },
+  {
+    "id": 105,
+    "title": "Node.js Advanced",
+    "author": "Ethan",
+    "genre": "Backend"
+  },
+  {
+    "id": 106,
+    "title": "Fullstack Architecture",
+    "author": "Fiona",
+    "genre": "Architecture"
+  }
+]
